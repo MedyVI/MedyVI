@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @MedyVI
-- 👀 I’m interested in learning web dev and python ecosystem
-- 🌱 I’m currently learning html, css, javascript and python
-- 💞️ I’m looking to collaborate on what's mentionned above
+- 👀 I’m interested in learning web dev and more
 - 📫 How to reach me --> mel.boucherba@proton.me
 - ⚡ Fun fact: nope
 
