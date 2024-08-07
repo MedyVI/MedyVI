@@ -25,7 +25,7 @@
 📫 Contactez-moi :
  
   -> medy.boucherba@proton.me
-  -> www.linkedin.com/in/  médy-boucherba-000506304
+  -> www.linkedin.com/in/médy-boucherba-000506304
 
 <!---
 MedyVI/MedyVI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
