@@ -1,25 +1,38 @@
-👨‍🍳 Chef Turned DeveloperHi, 
+# 👨‍🍳 Chef Turned Developer
 
-I'm Médy! After years of delighting taste buds as a chef, I decided to follow my passion for technology and dive into web development.
+Hi, I'm Médy! After years of delighting taste buds as a chef, I decided to follow my passion for technology and dive into web development.
 
-🌟 What I'm Learning:
- 
- -> 💻 Frontend: HTML, CSS, JavaScript, React
- -> 🛠️ Backend (coming soon): Node.js, Express, MongoDB
+## 🌟 What I'm Learning
 
-📡 Exploration: Python, MySQL, Java, Swift, PHP. I'm constantly on the lookout for new skills and technologies to master.
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Backend (coming soon)**: Node.js, Express, MongoDB
 
-🌱 What I'm Looking For:
+## 📡 Exploration
 
-Open source projects to collaborate and learn.Mentors and a community to exchange ideas and grow together.
+I'm constantly on the lookout for new skills and technologies to master:
+- Python
+- MySQL
+- Java
+- Swift
+- PHP
 
-🚀 Goals:
+## 🌱 What I'm Looking For
 
-To become a full-stack developer capable of creating robust and user-friendly web applications, using best development practices.💡 Motivation:Bringing a touch of culinary creativity and precision to the world of coding. Always ready for new challenges!
+- Open source projects to collaborate and learn
+- Mentors and a community to exchange ideas and grow together
 
-📫 Contact Me: 
-  -> medy.boucherba@proton.me
-  -> www.linkedin.com/in/médy-boucherba-000506304
+## 🚀 Goals
+
+To become a full-stack developer capable of creating robust and user-friendly web applications, using best development practices.
+
+## 💡 Motivation
+
+Bringing a touch of culinary creativity and precision to the world of coding. Always ready for new challenges!
+
+## 📫 Contact Me
+
+- Email: [medy.boucherba@proton.me](mailto:medy.boucherba@proton.me)
+- LinkedIn: [www.linkedin.com/in/médy-boucherba-000506304](https://www.linkedin.com/in/médy-boucherba-000506304)
 
 <!---
 MedyVI/MedyVI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
