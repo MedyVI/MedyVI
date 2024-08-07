@@ -1,29 +1,23 @@
-👨‍🍳 Cuisinier en reconversion
+👨‍🍳 Chef Turned DeveloperHi, 
 
-  Salut, moi c'est Médy ! Après des années à titiller les papilles en tant que cuisinier, j'ai décidé de suivre ma passion pour la technologie et de plonger dans le développement web.
+I'm Médy! After years of delighting taste buds as a chef, I decided to follow my passion for technology and dive into web development.
 
-🌟 Ce que j'apprends :
-
-  💻 Frontend : HTML, CSS, JavaScript, React
-
-  🛠️ Backend (à venir) : Node.js, Express, MongoDB 
-
-  📡 Exploration : Python, MySQL, Java, Swift, PHP. Je suis constamment à la recherche de nouvelles compétences et technologies à maîtriser.
-
-🌱 Ce que je cherche :
-
-  Des projets open source pour collaborer et apprendre.Des mentors et une communauté pour échanger et grandir ensemble.
-
-🚀 Objectifs : 
-
-  Devenir un développeur full-stack capable de créer des applications web robustes et user-friendly, en utilisant les meilleures pratiques du développement.
-
-💡 Motivation : 
-
-  Apporter une touche de créativité et de rigueur culinaire dans le monde du code. Toujours prêt pour de nouveaux défis !
-
-📫 Contactez-moi :
+🌟 What I'm Learning:
  
+ -> 💻 Frontend: HTML, CSS, JavaScript, React
+ -> 🛠️ Backend (coming soon): Node.js, Express, MongoDB
+
+📡 Exploration: Python, MySQL, Java, Swift, PHP. I'm constantly on the lookout for new skills and technologies to master.
+
+🌱 What I'm Looking For:
+
+Open source projects to collaborate and learn.Mentors and a community to exchange ideas and grow together.
+
+🚀 Goals:
+
+To become a full-stack developer capable of creating robust and user-friendly web applications, using best development practices.💡 Motivation:Bringing a touch of culinary creativity and precision to the world of coding. Always ready for new challenges!
+
+📫 Contact Me: 
   -> medy.boucherba@proton.me
   -> www.linkedin.com/in/médy-boucherba-000506304
 
