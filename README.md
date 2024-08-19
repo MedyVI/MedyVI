@@ -1,4 +1,4 @@
-# 👨‍🍳 Chef Turned Developer
+## 👨‍🍳 Chef Turned Developer
 
 Hi, I'm Médy! After years of delighting taste buds as a chef, I decided to follow my passion for technology and dive into web development.
 
