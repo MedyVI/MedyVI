@@ -10,11 +10,10 @@ Hi, I'm Médy! After years of delighting taste buds as a chef, I decided to foll
 ## 📡 Exploration
 
 I'm constantly on the lookout for new skills and technologies to master:
-- Python
-- MySQL
-- Java
-- Swift
-- PHP
+- JavaScript
+- SQL
+- php
+- ...
 
 ## 🌱 What I'm Looking For
 
