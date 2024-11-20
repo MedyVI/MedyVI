@@ -5,7 +5,7 @@ Hi, I'm Médy! After years of delighting taste buds as a chef, I decided to foll
 ## 🌟 What I'm Learning
 
 - **Frontend**: HTML, CSS, JavaScript, React
-- **Backend (coming soon)**: Node.js, Express, MongoDB
+- **Backend**: Node.js, php, SQL, NoSQL
 
 ## 📡 Exploration
 
