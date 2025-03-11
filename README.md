@@ -30,6 +30,7 @@ A **dynamic real estate website** built with:
 ✅ **PHP (Structured & Secure Development)**  
 ✅ **MySQL (Database Optimization & Queries)**  
 ✅ **REST APIs & Data Handling (XML, JSON)**  
+✅ **Laravel (in progress)** 
 
 ### **Development & Deployment**  
 ✅ **Git & GitHub (Version Control & Project Management)**  
