@@ -1,68 +1,47 @@
-# 👨‍🍳 From Chef to Web Developer
+🚀 From Chef to Web Developer
+Hi, I'm Médy! After years in the culinary world, I pivoted to web development, applying the same discipline, precision, and creativity to building professional, efficient, and scalable web applications.
 
-Hi, I'm **Médy**! After spending years honing my craft in the kitchen, I decided to pivot to web development to merge my creativity, precision, and problem-solving skills with technology. I'm passionate about building user-friendly, efficient web applications.
+Currently, I'm focused on full-stack development with a strong emphasis on backend architecture, frontend interactivity, and database management.
 
-## 🚀 My Journey
+🏗️ What I'm Working On
+🌍 Rose d'Argent Immobilier – Real Estate Web App
+A dynamic real estate website built with:
+✔ PHP & MySQL – Secure backend & database handling
+✔ HTML, CSS, JavaScript – Responsive and interactive frontend
+✔ Apache & .htaccess – Optimized server configuration
+✔ XML Data Import – Automating real estate listings integration
 
-- **Culinary Experience**: A chef’s mindset sharpened by years of attention to detail, creativity, and teamwork.
-- **Web Development**: Transitioning to web development, I focus on both frontend and backend technologies, constantly striving to learn and grow in the field.
+🔜 Next steps: Migrating to Vue.js & Laravel for a more modern and scalable architecture.
 
-## 🌐 Skills & Technologies
+🔥 Core Skills
+Frontend Development
+✅ HTML, CSS (Flexbox, Grid, Responsive Design)
+✅ JavaScript (DOM Manipulation, Event Handling)
+✅ Vue.js (in progress)
 
-### Frontend Development:
-- **HTML** | **CSS** | **JavaScript**
+Backend Development
+✅ PHP (Structured & Secure Development)
+✅ MySQL (Database Optimization & Queries)
+✅ REST APIs & Data Handling (XML, JSON)
 
-### Backend Development:
-- **PHP** | **Node.js** | **SQL** | **NoSQL** (MongoDB, MySQL)
+Development & Deployment
+✅ Git & GitHub (Version Control & Project Management)
+✅ Apache Server & .htaccess (Configuration & Optimization)
+✅ GIMP (Custom Graphics & UI Assets)
 
-### Tools & Frameworks:
-- **Version Control**: Git, GitHub
-- **Package Managers**: npm
-- **Backend Frameworks**: Express.js (Node.js)
-- **Databases**: MySQL, MongoDB
+🎯 Professional Goals
+🔹 Develop scalable, maintainable web applications
+🔹 Master Vue.js & Laravel to build modern full-stack projects
+🔹 Optimize database management & backend performance
+🔹 Deliver high-quality, real-world web solutions
 
-## 📚 What I'm Learning
+🤝 Collaboration & Open-Source
+🚀 Open to collaborations, real-world projects, and tech exchanges.
+💡 Passionate about problem-solving, continuous learning, and building intuitive user experiences.
 
-I’m continuously learning and improving my skill set. Currently, I’m focused on:
-- **React**: For building dynamic, interactive user interfaces.
-- **Vue.js**: Exploring for frontend applications.
-- **Laravel**: Learning backend development with PHP and building more complex systems.
-- **SQL & NoSQL**: Enhancing my understanding of databases and how to use them effectively.
+📫 Contact
+📩 Email: medy.boucherba@proton.me
+🔗 LinkedIn: linkedin.com/in/médy-boucherba-000506304
+💻 GitHub: github.com/MedyVI
 
-## 🔮 Technologies I Plan to Learn
-
-In addition to the skills I'm currently developing, I also plan to dive into the following technologies in the near future:
-- **Vue.js**: Another powerful frontend framework for building dynamic UIs.
-- **Angular**: A robust framework for building scalable, single-page web applications.
-- **Tone.js**: A JavaScript framework for creating interactive audio applications.
-- **R**: Exploring data analysis and statistical computing with R.
-- **Other Tools**: I'll also be exploring additional tools and frameworks as I grow in my career, such as **GraphQL**, **TypeScript**, and **WebAssembly**.
-
-## 🎯 My Goals
-
-- **Short-term**: Build and deploy dynamic applications using **React**, **Vue.js**, and **Laravel**.
-- **Long-term**: Become proficient in full-stack development and contribute to meaningful open-source projects.
-
-## 🤝 Let's Collaborate!
-
-- I'm eager to collaborate on **open-source projects** to enhance my skills and contribute to the community.
-- Looking for **mentorship** and opportunities to grow within a team or development community.
-
-## 💡 Why Web Development?
-
-Drawing from my culinary experience, I approach coding with a mix of creativity, precision, and attention to detail. I’m driven by solving problems and creating user-centered solutions, whether it’s crafting a simple website or building a robust web application.
-
-## 📫 Contact Me
-
-- **Email**: [medy.boucherba@proton.me](mailto:medy.boucherba@proton.me)
-- **LinkedIn**: [linkedin.com/in/médy-boucherba-000506304](https://www.linkedin.com/in/médy-boucherba-000506304)
-- **GitHub**: [github.com/MedyVI](https://github.com/MedyVI)
-
----
-
-*Feel free to explore my repositories and get in touch if you’re interested in collaborating!*
-
-<!---
-MedyVI/MedyVI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔥 Explore my repositories and reach out if you’re interested in building something great together
