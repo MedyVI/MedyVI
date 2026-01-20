@@ -1,66 +1,78 @@
-# From Chef to Web Developer  
+# From Culinary Precision to Web Development
 
-Hi, I'm **Médy**! After years in the culinary world, I pivoted to **web development**, applying the same discipline, precision, and creativity to building professional, efficient, and scalable web applications.  
+Hi, I'm **Médy**, a **Web Developer** and founder of **Opus Tela**.
 
-Currently, I'm focused on **full-stack development** with a strong emphasis on **backend architecture, frontend interactivity, and database management**.  
-
----
-
-## 🏗What I'm Working On  
-
-### **Rose d'Argent Immobilier – Real Estate Web App**  
-A **dynamic real estate website** built with:  
-✔ **PHP & MySQL** – Secure backend & database handling  
-✔ **HTML, CSS, JavaScript** – Responsive and interactive frontend  
-✔ **Apache & .htaccess** – Optimized server configuration  
-✔ **XML Data Import** – Automating real estate listings integration  
-
-**Next steps**: Migrating to **Vue.js & Laravel** for a more modern and scalable architecture.  
+After several years in the culinary industry, I transitioned into web development, carrying over a strong mindset of **discipline, precision, organization, and execution**.  
+Today, I design and build **modern, reliable, and maintainable web applications**, with a strong focus on **clean architecture and long-term scalability**.
 
 ---
 
-## Core Skills  
+## About Opus Tela
 
-### **Frontend Development**  
-**HTML, CSS (Flexbox, Grid, Responsive Design)**  
-**JavaScript (DOM Manipulation, Event Handling)**  
-**Vue.js (in progress)**  
+**Opus Tela** is my web development activity, launched in **January 2026**, focused on:
+- Custom website development
+- Backend-driven web applications
+- Maintenance, refactoring, and progressive modernization of existing projects
 
-### **Backend Development**  
-**PHP (Structured & Secure Development)**  
-**MySQL (Database Optimization & Queries)**  
-**REST APIs & Data Handling (XML, JSON)**  
-**Laravel (in progress)** 
-
-### **Development & Deployment**  
-**Git & GitHub (Version Control & Project Management)**  
-**Apache Server & .htaccess (Configuration & Optimization)**  
-**GIMP (Custom Graphics & UI Assets)**  
+My approach is pragmatic: **robust foundations first, modern technologies where they add real value**.
 
 ---
 
-## Professional Goals  
+## 🏗 Featured Project
 
-**Develop scalable, maintainable web applications**  
-**Master Vue.js & Laravel to build modern full-stack projects**  
-**Optimize database management & backend performance**  
-**Deliver high-quality, real-world web solutions**  
+### **Rose d'Argent Immobilier — Real Estate Web Application**
+
+A dynamic real estate platform designed to manage and display property listings efficiently.
+
+**Stack & technologies**
+- **Backend**: PHP, MySQL, Laravel
+- **Frontend**: HTML, CSS, JavaScript, Vue.js
+- **Server**: Apache, `.htaccess`
+- **Data integration**: XML import automation
+
+**Key features**
+- Secure and structured backend architecture
+- Automated data ingestion from external sources
+- Responsive and accessible user interface
+- Optimized server configuration and routing
+
+**Project evolution**
+> Initial PHP architecture progressively migrated to **Laravel & Vue.js** to improve maintainability, scalability, and developer experience.
 
 ---
 
-## Collaboration & Open-Source  
+## Technical Skills
 
-Open to **collaborations**, **real-world projects**, and **tech exchanges**.  
-Passionate about **problem-solving**, **continuous learning**, and **building intuitive user experiences**.  
+### Frontend Development
+- HTML5, CSS3 (Flexbox, Grid, Responsive Design)
+- JavaScript (ES6+, DOM manipulation, events)
+- Vue.js (components, reactivity, routing basics)
+
+### Backend Development
+- PHP (clean, structured, secure development)
+- Laravel (MVC, routing, controllers, migrations, Eloquent ORM)
+- MySQL (relational design, queries, optimization)
+- RESTful APIs
+- Data formats: XML, JSON
+
+### Tooling & Environment
+- Git & GitHub (version control, project structuring)
+- Linux-based development (Pop!_OS)
+- Apache & `.htaccess`
+- GIMP (basic UI & graphic assets)
 
 ---
 
-## Contact  
-
-**Email**: [medy.boucherba@proton.me](mailto:medy.boucherba@proton.me)  
-**LinkedIn**: [linkedin.com/in/médy-boucherba-000506304](https://www.linkedin.com/in/médy-boucherba-000506304)  
-**GitHub**: [github.com/MedyVI](https://github.com/MedyVI)  
+## What I Care About as a Developer
+- Clear and maintainable code
+- Long-term project stability
+- Progressive improvement over premature complexity
+- Technologies chosen for **usefulness**, not trends
 
 ---
 
-*Explore my repositories and reach out if you’re interested in building something great together!*  
+## Contact
+
+- **Email**: [medy.boucherba@proton.me](mailto:medy.boucherba@proton.me)
+- **LinkedIn**: https://www.linkedin.com/in/médy-boucherba-000506304
+- **GitHub**: https://github.com/MedyVI
